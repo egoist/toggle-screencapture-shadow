@@ -29,6 +29,11 @@ toggle((err, disabled) => {
 toggle.set(true | false, cb)
 ```
 
+## Related
+
+- [toggle-screencapture-shadow-cli](https://github.com/egoist/toggle-screencapture-shadow-cli)
+- [screencapture-shadow-disabled](https://github.com/egoist/screencapture-shadow-disabled)
+
 ## License
 
 MIT © [EGOIST](https://github.com/egoist)
